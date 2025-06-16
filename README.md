@@ -1,5 +1,5 @@
-# Hi 👋 I am Sri Veni Yellaboyina:
-<h1>A passionate Cloud Developer And Forntend developer</h1>
+# <center> Hi 👋 I am Sri Veni Yellaboyina<center>:
+<center><h1>A passionate Cloud Developer And Forntend developer</center></h1>
 👋 Hi, I’m @Sri Veni<br>🚀 Exploring the world of cutting-edge Technologies.<br>🌱 Currently learning: Exploring DSA concepts, Operating Systems<br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡 Open to collaborate on: Exciting projects, and impactful ideas<br>✨ “Always curious, always building!”
 
 
