@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sri Veni Yellaboyina</h1>
 <h3 align="center">A Passionate Cloud Developer and Frontend Developer from India</h3>
 
-👋 Hi, I’m @Sri Veni<br>🚀 I’m currently working on AWS Cloud Development <br>🌱 I’m currently learning Aws Cloud Development and Networking <br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡I’m looking to collaborate on Internship opportunities<br>✨ “Always curious, always building!”
+🚀 I’m currently working on AWS Cloud Development <br>🌱 I’m currently learning Aws Cloud Development and Networking <br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡I’m looking to collaborate on Internship opportunities<br>✨ “Always curious, always building!”
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-veni-yellaboyina-a4a252291) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
