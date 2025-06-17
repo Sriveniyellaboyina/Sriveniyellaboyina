@@ -1,6 +1,7 @@
-# <center> Hi 👋 I am Sri Veni Yellaboyina<center>:
-<h1><center>A passionate Cloud Developer And Frontend developer</center></h1>
-👋 Hi, I’m @Sri Veni<br>🚀 Exploring the world of cutting-edge Technologies.<br>🌱 Currently learning: Exploring DSA concepts, Operating Systems<br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡 Open to collaborate on: Exciting projects, and impactful ideas<br>✨ “Always curious, always building!”
+<h1 align="center">Hi 👋, I'm Sri Veni Yellaboyina</h1>
+<h3 align="center">A Passionate Cloud Developer and Frontend Developer from India</h3>
+
+👋 Hi, I’m @Sri Veni<br>🚀 I’m currently working on AWS Cloud Development <br>🌱 I’m currently learning Aws Cloud Development and Networking <br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡I’m looking to collaborate on Internship opportunities<br>✨ “Always curious, always building!”
 
 
 ## 🌐 Socials:
