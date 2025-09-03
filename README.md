@@ -12,12 +12,14 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriveniyellaboyina/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/Sriveniyellaboyina) &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/sriveni_200517) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Sri_veni_05/) &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sriveni7ov6/) &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Sriveni200517)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sriveniyellaboyina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a> &nbsp;
+  <a href="https://github.com/Sriveniyellaboyina"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"/></a> &nbsp;
+  <a href="https://www.codechef.com/users/sriveni_200517"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white"/></a> &nbsp;
+  <a href="https://leetcode.com/u/Sri_veni_05/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/></a> &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/sriveni7ov6/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/Sriveni200517"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -48,17 +50,14 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriveniyellaboyina&theme=radical&hide_border=false" height="150"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriveniyellaboyina&theme=radical&hide_border=false" width="420" height="200"/> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500" height="220"/>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sriveniyellaboyina&icon=0&color=12" alt="Profile Views"/>
-  </a>
-</p>
 
 <!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
