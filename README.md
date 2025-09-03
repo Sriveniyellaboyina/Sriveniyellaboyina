@@ -1,10 +1,7 @@
 <!-- 🌟 Stylish GitHub Profile README 🌟 -->
-
+<h1 align="center">Hi 👋, I'm Sri Veni Yellaboyina</h1>
+<h3 align="center">🌟 Cloud Developer | Frontend Enthusiast | Problem Solver 🌟</h3>
 <!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sri+Veni+Yellaboyina;Cloud+Developer+☁️;Frontend+Enthusiast+💻;Problem+Solver+🚀;Always+Curious,+Always+Building!" alt="Typing SVG" />
-</h1>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontColor=fff&color=gradient" />
