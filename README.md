@@ -1,24 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sri Veni Yellaboyina</h1>
-<h3 align="center">🌟 Cloud Developer | Frontend Enthusiast | Problem Solver 🌟</h3>
+<!-- 🌟 Stylish GitHub Profile README 🌟 -->
+
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sri+Veni+Yellaboyina;Cloud+Developer+☁️;Frontend+Enthusiast+💻;Problem+Solver+🚀;Always+Curious,+Always+Building!" alt="Typing SVG" />
+</h1>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontColor=fff&color=gradient" />
+</p>
+
+---
 
 ## 💻 About Me  
 - 🚀 Currently working on **AWS Cloud Development & Solutions**  
 - 🌱 Exploring **Cloud Infrastructure, Networking, and Scalable Architectures**  
 - 💡 Passionate about building **innovative, reliable, and impactful solutions**  
 - 🤝 Open to collaborate on **Internship Opportunities & Real-world Projects**  
-- 📧 How to reach me: **sriveni200517@gmail.com**  
+- 📧 Reach me at: **sriveni200517@gmail.com**  
 - ✨ Motto: *"Always curious, always building!"*  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sriveniyellaboyina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="https://github.com/Sriveniyellaboyina"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"/></a> &nbsp;
-  <a href="https://www.codechef.com/users/sriveni_200517"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white"/></a> &nbsp;
-  <a href="https://leetcode.com/u/Sri_veni_05/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/></a> &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/sriveni7ov6/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
-  <a href="https://www.hackerrank.com/profile/Sriveni200517"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sriveniyellaboyina/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a> &nbsp;
+  <a href="https://github.com/Sriveniyellaboyina"><img src="https://skillicons.dev/icons?i=github" width="45"/></a> &nbsp;
+  <a href="https://www.codechef.com/users/sriveni_200517"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a> &nbsp;
+  <a href="https://leetcode.com/u/Sri_veni_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/sriveni7ov6/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/Sriveni200517"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,14 +61,24 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriveniyellaboyina&theme=radical&hide_border=false" width="420" height="200"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="420"/> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriveniyellaboyina&theme=radical&hide_border=false" width="420"/> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriveniyellaboyina&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500"/>
 </p>
 
 ---
 
-<!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriveniyellaboyina&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
