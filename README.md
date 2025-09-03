@@ -68,12 +68,7 @@
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriveniyellaboyina&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
 
----
 
 <!-- Footer Banner -->
 <p align="center">
