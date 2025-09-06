@@ -1,5 +1,5 @@
 <!-- 🌟 Stylish GitHub Profile README 🌟 -->
-<h1 align="center">Hi all, I'm Sri Veni Yellaboyina</h1>
+<h1 align="center">Hi 👋 I'm Sri Veni Yellaboyina</h1>
 <h3 align="center">🌟 Cloud Developer | Frontend Enthusiast | Problem Solver 🌟</h3>
 <!-- Typing Animation Header -->
 <!-- Banner -->
