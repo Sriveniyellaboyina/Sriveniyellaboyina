@@ -14,7 +14,7 @@
 - 🌱 Exploring **Cloud Infrastructure, Networking, and Scalable Architectures**  
 - 💡 Passionate about building **innovative, reliable, and impactful solutions**  
 - 🤝 Open to collaborate on **Internship Opportunities & Real-world Projects**  
-- 📧 Reach me at: **sriveni200517@gmail.com**  
+- 📧 Reach me : **sriveni200517@gmail.com**  
 - ✨ Quote: *"Always curious, always building!!"*  
 
 ---
